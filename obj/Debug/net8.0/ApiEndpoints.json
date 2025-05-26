@@ -79,6 +79,85 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "WebApi29.Controllers.RolController",
+    "Method": "GetAll",
+    "RelativePath": "Rol",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi29.Controllers.RolController",
+    "Method": "Crear",
+    "RelativePath": "Rol",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Domain.DTO.RolRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi29.Controllers.RolController",
+    "Method": "ById",
+    "RelativePath": "Rol/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi29.Controllers.RolController",
+    "Method": "Update",
+    "RelativePath": "Rol/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "Domain.DTO.RolRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi29.Controllers.RolController",
+    "Method": "Delete",
+    "RelativePath": "Rol/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "WebApi29.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
