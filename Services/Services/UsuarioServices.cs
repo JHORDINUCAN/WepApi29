@@ -20,7 +20,7 @@ namespace WebApi29.Services.Services
 			try
 			{
 
-				List<Usuario> response = await _context.Usuarios.Include(x=> x.Roles).ToListAsync();
+				List<Usuario> response = await _context.Usuarios.Include(x => x.Roles).ToListAsync();
 
 				return new Response<List<Usuario>>(response, "Lista de usuarios");
 
@@ -69,5 +69,55 @@ namespace WebApi29.Services.Services
 				throw new Exception("Ocurrio un error " + ex.Message);
 			}
 		}
+
+		//Actualizar datos
+		public async Task<Response<Usuario>> Actualizar(int id, UsuarioRequest request)
+		{
+			try
+			{
+				var usuario = await _context.Usuarios.FirstOrDefaultAsync(x => x.PkUsuario == id);
+
+				if (usuario == null)
+					return new Response<Usuario>("Usuario no encontrado");
+
+				usuario.Nombre = request.Nombre;
+				usuario.UserName = request.UserName;
+				usuario.Password = request.Password;
+				usuario.FkRol = request.FkRol;
+
+				_context.Usuarios.Update(usuario);
+				await _context.SaveChangesAsync();
+
+				return new Response<Usuario>(usuario, "Usuario actualizado correctamente");
+			}
+			catch (Exception ex)
+			{
+				throw new Exception("Ocurrió un error " + ex.Message);
+			}
+		}
+
+
+		//Borrar datos
+		public async Task<Response<string>> Eliminar(int id)
+		{
+			try
+			{
+				var usuario = await _context.Usuarios.FirstOrDefaultAsync(x => x.PkUsuario == id);
+
+				if (usuario == null)
+					return new Response<string>("Usuario no encontrado");
+
+				_context.Usuarios.Remove(usuario);
+				await _context.SaveChangesAsync();
+
+				return new Response<string>("Usuario eliminado correctamente");
+			}
+			catch (Exception ex)
+			{
+				throw new Exception("Ocurrió un error " + ex.Message);
+			}
+		}
+
+
 	}
 }

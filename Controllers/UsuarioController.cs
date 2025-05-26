@@ -36,5 +36,20 @@ namespace WebApi29.Controllers
 			return Ok(response);
 		}
 
+		[HttpPut("{id:int}")]
+		public async Task<IActionResult> PutUser(int id, UsuarioRequest request)
+		{
+			var response = await _usuarioServices.Actualizar(id, request);
+			return Ok(response);
+		}
+
+		[HttpDelete("{id:int}")]
+		public async Task<IActionResult> DeleteUser(int id)
+		{
+			var response = await _usuarioServices.Eliminar(id);
+			return Ok(response);
+		}
+
+
 	}
 }

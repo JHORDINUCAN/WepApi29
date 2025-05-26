@@ -3,22 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\jhord\\source\\repos\\WebApi29\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\services\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|solutionrelative:services\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\services\\iservices\\iusuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|solutionrelative:services\\iservices\\iusuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E110BEE5-D008-440E-BBC4-C3A02D5A5221}|..\\Domain\\Domain.csproj|c:\\users\\jhord\\source\\repos\\domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\services\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|solutionrelative:services\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E110BEE5-D008-440E-BBC4-C3A02D5A5221}|..\\Domain\\Domain.csproj|c:\\users\\jhord\\source\\repos\\domain\\dto\\usuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E110BEE5-D008-440E-BBC4-C3A02D5A5221}|..\\Domain\\Domain.csproj|c:\\users\\jhord\\source\\repos\\domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,7 +61,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -81,28 +81,63 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250521012453_Example.cs",
+              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Migrations\\20250521012453_Example.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250521012453_Example.cs",
+              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Migrations\\20250521012453_Example.cs",
+              "RelativeToolTip": "Migrations\\20250521012453_Example.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAUwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T23:59:33.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\jhord\\source\\repos\\Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T01:39:40.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUsuarioServices.cs",
+              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Services\\IServices\\IUsuarioServices.cs",
+              "RelativeDocumentMoniker": "Services\\IServices\\IUsuarioServices.cs",
+              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Services\\IServices\\IUsuarioServices.cs",
+              "RelativeToolTip": "Services\\IServices\\IUsuarioServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T01:30:42.261Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "UsuarioRequest.cs",
+              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\Domain\\DTO\\UsuarioRequest.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\DTO\\UsuarioRequest.cs",
+              "ToolTip": "C:\\Users\\jhord\\source\\repos\\Domain\\DTO\\UsuarioRequest.cs",
+              "RelativeToolTip": "..\\Domain\\DTO\\UsuarioRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T00:55:04.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
               "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAYwCAAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCcAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T01:21:43.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsuarioServices.cs",
-              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Services\\Services\\UsuarioServices.cs",
-              "RelativeDocumentMoniker": "Services\\Services\\UsuarioServices.cs",
-              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Services\\Services\\UsuarioServices.cs",
-              "RelativeToolTip": "Services\\Services\\UsuarioServices.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwEgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T01:31:14.522Z",
               "EditorCaption": ""
             },
             {
@@ -115,60 +150,19 @@
               "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T23:59:20.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20250521012453_Example.cs",
-              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Migrations\\20250521012453_Example.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250521012453_Example.cs",
-              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Migrations\\20250521012453_Example.cs",
-              "RelativeToolTip": "Migrations\\20250521012453_Example.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAUwEkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T23:59:33.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T23:59:20.438Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\Domain\\Entities\\Usuario.cs",
-              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Usuario.cs",
-              "ToolTip": "C:\\Users\\jhord\\source\\repos\\Domain\\Entities\\Usuario.cs",
-              "RelativeToolTip": "..\\Domain\\Entities\\Usuario.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAoAAAAOAAAAAAAAAA==",
+              "Title": "UsuarioServices.cs",
+              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Services\\Services\\UsuarioServices.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\UsuarioServices.cs",
+              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Services\\Services\\UsuarioServices.cs",
+              "RelativeToolTip": "Services\\Services\\UsuarioServices.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAiwFsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T01:39:40.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IUsuarioServices.cs",
-              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Services\\IServices\\IUsuarioServices.cs",
-              "RelativeDocumentMoniker": "Services\\IServices\\IUsuarioServices.cs",
-              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Services\\IServices\\IUsuarioServices.cs",
-              "RelativeToolTip": "Services\\IServices\\IUsuarioServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T01:30:42.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsuarioRequest.cs",
-              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\Domain\\DTO\\UsuarioRequest.cs",
-              "RelativeDocumentMoniker": "..\\Domain\\DTO\\UsuarioRequest.cs",
-              "ToolTip": "C:\\Users\\jhord\\source\\repos\\Domain\\DTO\\UsuarioRequest.cs",
-              "RelativeToolTip": "..\\Domain\\DTO\\UsuarioRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T00:55:04.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T01:31:14.522Z"
             },
             {
               "$type": "Document",
@@ -180,8 +174,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T01:33:03.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T01:33:03.516Z"
             },
             {
               "$type": "Document",
@@ -193,8 +186,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-23T00:00:01.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T00:00:01.464Z"
             },
             {
               "$type": "Document",
@@ -206,8 +198,7 @@
               "RelativeToolTip": "Context\\ApplicationDbContext.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAcwCYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T01:46:13.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T01:46:13.155Z"
             },
             {
               "$type": "Document",
@@ -219,8 +210,7 @@
               "RelativeToolTip": "..\\Domain\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T23:59:04.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T23:59:04.124Z"
             },
             {
               "$type": "Document",
@@ -232,8 +222,7 @@
               "RelativeToolTip": "..\\Domain\\Entities\\Rol.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T23:58:34.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-22T23:58:34.952Z"
             },
             {
               "$type": "Document",
@@ -245,8 +234,7 @@
               "RelativeToolTip": "..\\Domain\\Entities\\Response.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAA/wB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T01:35:21.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T01:35:21.664Z"
             },
             {
               "$type": "Document",
