@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jhord\\source\\repos\\WebApi29\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\services\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|solutionrelative:services\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E110BEE5-D008-440E-BBC4-C3A02D5A5221}|..\\Domain\\Domain.csproj|c:\\users\\jhord\\source\\repos\\domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\services\\iservices\\iusuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|solutionrelative:services\\iservices\\iusuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E110BEE5-D008-440E-BBC4-C3A02D5A5221}|..\\Domain\\Domain.csproj|c:\\users\\jhord\\source\\repos\\domain\\dto\\usuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\migrations\\20250521012453_example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|solutionrelative:migrations\\20250521012453_example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|solutionrelative:context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E110BEE5-D008-440E-BBC4-C3A02D5A5221}|..\\Domain\\Domain.csproj|c:\\users\\jhord\\source\\repos\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E110BEE5-D008-440E-BBC4-C3A02D5A5221}|..\\Domain\\Domain.csproj|c:\\users\\jhord\\source\\repos\\domain\\entities\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E110BEE5-D008-440E-BBC4-C3A02D5A5221}|..\\Domain\\Domain.csproj|c:\\users\\jhord\\source\\repos\\domain\\entities\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioRequest.cs",
+              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\Domain\\DTO\\UsuarioRequest.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\DTO\\UsuarioRequest.cs",
+              "ToolTip": "C:\\Users\\jhord\\source\\repos\\Domain\\DTO\\UsuarioRequest.cs*",
+              "RelativeToolTip": "..\\Domain\\DTO\\UsuarioRequest.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T00:55:04.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Controllers\\UsuarioController.cs*",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwCAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T01:21:43.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioServices.cs",
+              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Services\\Services\\UsuarioServices.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\UsuarioServices.cs",
+              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Services\\Services\\UsuarioServices.cs*",
+              "RelativeToolTip": "Services\\Services\\UsuarioServices.cs*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T01:31:14.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T23:59:20.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250521012453_Example.cs",
+              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Migrations\\20250521012453_Example.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250521012453_Example.cs",
+              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Migrations\\20250521012453_Example.cs",
+              "RelativeToolTip": "Migrations\\20250521012453_Example.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAUwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T23:59:33.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\jhord\\source\\repos\\Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T01:39:40.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUsuarioServices.cs",
+              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Services\\IServices\\IUsuarioServices.cs",
+              "RelativeDocumentMoniker": "Services\\IServices\\IUsuarioServices.cs",
+              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Services\\IServices\\IUsuarioServices.cs*",
+              "RelativeToolTip": "Services\\IServices\\IUsuarioServices.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T01:30:42.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:33:03.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-23T00:00:01.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T01:46:13.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\jhord\\source\\repos\\Domain\\Class1.cs",
+              "RelativeToolTip": "..\\Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T23:59:04.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\Domain\\Entities\\Rol.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Rol.cs",
+              "ToolTip": "C:\\Users\\jhord\\source\\repos\\Domain\\Entities\\Rol.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T23:58:34.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\Domain\\Entities\\Response.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Response.cs",
+              "ToolTip": "C:\\Users\\jhord\\source\\repos\\Domain\\Entities\\Response.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Response.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA/wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T01:35:21.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T01:48:45.402Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
