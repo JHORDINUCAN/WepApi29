@@ -9,6 +9,8 @@ namespace WebApi29.Services.Services
 	public class UsuarioServices : IUsuarioServices
 	{
 		private readonly ApplicationDbContext _context;
+
+		//Constructor para inyectar el contexto de la base de datos
 		public UsuarioServices(ApplicationDbContext context)
 		{
 			_context = context;

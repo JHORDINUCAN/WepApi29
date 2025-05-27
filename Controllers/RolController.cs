@@ -11,11 +11,14 @@ namespace WebApi29.Controllers
 	public class RolController : ControllerBase
 	{
 		private readonly IRolServices _rolServices;
+
+		// Constructor para inyectar el servicio de roles
 		public RolController(IRolServices rolServices)
 		{
 			_rolServices = rolServices;
 		}
 
+		// Obtener todos los roles
 		[HttpGet]
 		public async Task<IActionResult> GetAll()
 		{
@@ -23,12 +26,14 @@ namespace WebApi29.Controllers
 			return Ok(response);
 		}
 
+		// Obtener rol por id
 		[HttpGet("{id}")]
 		public async Task<IActionResult> ById(int id)
 		{
 			return Ok(await _rolServices.RolesById(id));
 		}
 
+		// Crear nuevo rol
 		[HttpPost]
 		public async Task<IActionResult> Crear(RolRequest request)
 		{
@@ -36,6 +41,7 @@ namespace WebApi29.Controllers
 			return Ok(response);
 		}
 
+		// Actualizar rol
 		[HttpPut("{id}")]
 		public async Task<IActionResult> Update(int id, [FromBody] RolRequest request)
 		{
@@ -43,6 +49,7 @@ namespace WebApi29.Controllers
 			return Ok(response);
 		}
 
+		// Eliminar rol
 		[HttpDelete("{id}")]
 		public async Task<IActionResult> Delete(int id)
 		{

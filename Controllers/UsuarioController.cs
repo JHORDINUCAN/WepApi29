@@ -11,11 +11,13 @@ namespace WebApi29.Controllers
 	{
 		private readonly IUsuarioServices _usuarioServices;
 
+		// Constructor con inyección del servicio de usuarios
 		public UsuarioController(IUsuarioServices usuarioServices)
 		{
 			_usuarioServices = usuarioServices;
 		}
 
+		// Obtener todos los usuarios
 		[HttpGet]
 		public async Task<IActionResult> GetUsers()
 		{
@@ -23,12 +25,14 @@ namespace WebApi29.Controllers
 			return Ok(response);
 		}
 
+		// Obtener usuario por ID
 		[HttpGet("id")]
 		public async Task<IActionResult> GetUser(int id)
 		{
 			return Ok(await _usuarioServices.ById(id));
 		}
 
+		// Crear nuevo usuario
 		[HttpPost]
 		public async Task<IActionResult> PostUser(UsuarioRequest request)
 		{
@@ -36,6 +40,8 @@ namespace WebApi29.Controllers
 			return Ok(response);
 		}
 
+		// Actualizar usuario
+		//Otra forma de seleccionar el id es [("{id}")]
 		[HttpPut("{id:int}")]
 		public async Task<IActionResult> PutUser(int id, UsuarioRequest request)
 		{
@@ -43,6 +49,7 @@ namespace WebApi29.Controllers
 			return Ok(response);
 		}
 
+		// Eliminar usuario
 		[HttpDelete("{id:int}")]
 		public async Task<IActionResult> DeleteUser(int id)
 		{

@@ -10,6 +10,7 @@ namespace WebApi29.Services.Services
 	{
 		private readonly ApplicationDbContext _context;
 
+		//Constructor para inyectar el contexto de la base de datos
 		public RolServices(ApplicationDbContext context)
 		{
 			_context = context;
