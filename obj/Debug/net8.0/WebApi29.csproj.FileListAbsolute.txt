@@ -141,3 +141,4 @@ C:\Users\jhord\source\repos\WebApi29\bin\Debug\net8.0\runtimes\win\lib\net6.0\Sy
 C:\Users\jhord\source\repos\WebApi29\bin\Debug\net8.0\Domain.dll
 C:\Users\jhord\source\repos\WebApi29\bin\Debug\net8.0\Domain.pdb
 C:\Users\jhord\source\repos\WebApi29\obj\Debug\net8.0\WebApi29.sourcelink.json
+C:\Users\jhord\source\repos\WebApi29\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

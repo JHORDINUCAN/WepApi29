@@ -3,74 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\jhord\\source\\repos\\WebApi29\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|solutionrelative:controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\services\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|solutionrelative:services\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\services\\services\\rolservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|solutionrelative:services\\services\\rolservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\services\\iservices\\iusuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|solutionrelative:services\\iservices\\iusuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\services\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|solutionrelative:services\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E110BEE5-D008-440E-BBC4-C3A02D5A5221}|..\\Domain\\Domain.csproj|c:\\users\\jhord\\source\\repos\\domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\services\\iservices\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|solutionrelative:services\\iservices\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E110BEE5-D008-440E-BBC4-C3A02D5A5221}|..\\Domain\\Domain.csproj|c:\\users\\jhord\\source\\repos\\domain\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E110BEE5-D008-440E-BBC4-C3A02D5A5221}|..\\Domain\\Domain.csproj|c:\\users\\jhord\\source\\repos\\domain\\dto\\usuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E110BEE5-D008-440E-BBC4-C3A02D5A5221}|..\\Domain\\Domain.csproj|c:\\users\\jhord\\source\\repos\\domain\\dto\\rolrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\services\\iservices\\irolservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|solutionrelative:services\\iservices\\irolservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|solutionrelative:controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|solutionrelative:context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E110BEE5-D008-440E-BBC4-C3A02D5A5221}|..\\Domain\\Domain.csproj|c:\\users\\jhord\\source\\repos\\domain\\dto\\rolrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E110BEE5-D008-440E-BBC4-C3A02D5A5221}|..\\Domain\\Domain.csproj|c:\\users\\jhord\\source\\repos\\domain\\entities\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E110BEE5-D008-440E-BBC4-C3A02D5A5221}|..\\Domain\\Domain.csproj|c:\\users\\jhord\\source\\repos\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E110BEE5-D008-440E-BBC4-C3A02D5A5221}|..\\Domain\\Domain.csproj|c:\\users\\jhord\\source\\repos\\domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E110BEE5-D008-440E-BBC4-C3A02D5A5221}|..\\Domain\\Domain.csproj|c:\\users\\jhord\\source\\repos\\domain\\entities\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E110BEE5-D008-440E-BBC4-C3A02D5A5221}|..\\Domain\\Domain.csproj|c:\\users\\jhord\\source\\repos\\domain\\dto\\usuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\migrations\\20250521012453_example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|solutionrelative:migrations\\20250521012453_example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|c:\\users\\jhord\\source\\repos\\webapi29\\services\\services\\rolservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47F10CE-AC5C-4AAB-8300-4E35C2CEEEDC}|WebApi29.csproj|solutionrelative:services\\services\\rolservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -80,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -100,132 +78,132 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\WeatherForecast.cs",
-              "RelativeToolTip": "WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T23:13:43.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RolController.cs",
-              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Controllers\\RolController.cs",
-              "RelativeDocumentMoniker": "Controllers\\RolController.cs",
-              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Controllers\\RolController.cs",
-              "RelativeToolTip": "Controllers\\RolController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAQwDYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T21:15:15.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDcAAAAAAAAAAAAAAA==",
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Services\\IServices\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\IServices\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Services\\IServices\\IAuthService.cs",
+              "RelativeToolTip": "Services\\IServices\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T01:21:43.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T01:33:03.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IRolServices.cs",
-              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Services\\IServices\\IRolServices.cs",
-              "RelativeDocumentMoniker": "Services\\IServices\\IRolServices.cs",
-              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Services\\IServices\\IRolServices.cs",
-              "RelativeToolTip": "Services\\IServices\\IRolServices.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T21:29:14.609Z",
+              "WhenOpened": "2025-06-02T05:28:55.166Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IUsuarioServices.cs",
-              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Services\\IServices\\IUsuarioServices.cs",
-              "RelativeDocumentMoniker": "Services\\IServices\\IUsuarioServices.cs",
-              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Services\\IServices\\IUsuarioServices.cs",
-              "RelativeToolTip": "Services\\IServices\\IUsuarioServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Services\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Services\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\Services\\AuthService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T01:30:42.261Z",
+              "WhenOpened": "2025-06-02T05:27:32.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\jhord\\source\\repos\\Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAewBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T05:26:31.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\Domain\\DTO\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\DTO\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\jhord\\source\\repos\\Domain\\DTO\\LoginRequest.cs",
+              "RelativeToolTip": "..\\Domain\\DTO\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T05:25:43.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RolController.cs",
+              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Controllers\\RolController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RolController.cs",
+              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Controllers\\RolController.cs*",
+              "RelativeToolTip": "Controllers\\RolController.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T05:03:25.489Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "RolServices.cs",
-              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Services\\Services\\RolServices.cs",
-              "RelativeDocumentMoniker": "Services\\Services\\RolServices.cs",
-              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Services\\Services\\RolServices.cs",
-              "RelativeToolTip": "Services\\Services\\RolServices.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAgwG0AAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T21:12:41.992Z",
+              "WhenOpened": "2025-06-02T05:18:22.608Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UsuarioServices.cs",
-              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Services\\Services\\UsuarioServices.cs",
-              "RelativeDocumentMoniker": "Services\\Services\\UsuarioServices.cs",
-              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Services\\Services\\UsuarioServices.cs",
-              "RelativeToolTip": "Services\\Services\\UsuarioServices.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAgwHsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T01:31:14.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-23T00:00:01.464Z",
+              "WhenOpened": "2025-06-02T05:16:39.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T05:58:13.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T05:44:07.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Context\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Context\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Context\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Context\\ApplicationDbContext.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAkwBYAAAAeAAAAAAAAAA==",
+              "Title": "UsuarioRequest.cs",
+              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\Domain\\DTO\\UsuarioRequest.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\DTO\\UsuarioRequest.cs",
+              "ToolTip": "C:\\Users\\jhord\\source\\repos\\Domain\\DTO\\UsuarioRequest.cs",
+              "RelativeToolTip": "..\\Domain\\DTO\\UsuarioRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T01:46:13.155Z",
+              "WhenOpened": "2025-06-02T05:26:39.363Z",
               "EditorCaption": ""
             },
             {
@@ -236,113 +214,35 @@
               "RelativeDocumentMoniker": "..\\Domain\\DTO\\RolRequest.cs",
               "ToolTip": "C:\\Users\\jhord\\source\\repos\\Domain\\DTO\\RolRequest.cs",
               "RelativeToolTip": "..\\Domain\\DTO\\RolRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T21:36:36.333Z",
+              "WhenOpened": "2025-06-02T05:25:53.35Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Rol.cs",
-              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\Domain\\Entities\\Rol.cs",
-              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Rol.cs",
-              "ToolTip": "C:\\Users\\jhord\\source\\repos\\Domain\\Entities\\Rol.cs",
-              "RelativeToolTip": "..\\Domain\\Entities\\Rol.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "IRolServices.cs",
+              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Services\\IServices\\IRolServices.cs",
+              "RelativeDocumentMoniker": "Services\\IServices\\IRolServices.cs",
+              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Services\\IServices\\IRolServices.cs",
+              "RelativeToolTip": "Services\\IServices\\IRolServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T23:58:34.952Z",
+              "WhenOpened": "2025-06-02T05:03:14.367Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\Domain\\Class1.cs",
-              "ToolTip": "C:\\Users\\jhord\\source\\repos\\Domain\\Class1.cs",
-              "RelativeToolTip": "..\\Domain\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "RolServices.cs",
+              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Services\\Services\\RolServices.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\RolServices.cs",
+              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Services\\Services\\RolServices.cs",
+              "RelativeToolTip": "Services\\Services\\RolServices.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAA4wG4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T23:59:04.124Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\Domain\\Entities\\Usuario.cs",
-              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Usuario.cs",
-              "ToolTip": "C:\\Users\\jhord\\source\\repos\\Domain\\Entities\\Usuario.cs",
-              "RelativeToolTip": "..\\Domain\\Entities\\Usuario.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T01:39:40.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Response.cs",
-              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\Domain\\Entities\\Response.cs",
-              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Response.cs",
-              "ToolTip": "C:\\Users\\jhord\\source\\repos\\Domain\\Entities\\Response.cs",
-              "RelativeToolTip": "..\\Domain\\Entities\\Response.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA+wB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T01:35:21.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UsuarioRequest.cs",
-              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\Domain\\DTO\\UsuarioRequest.cs",
-              "RelativeDocumentMoniker": "..\\Domain\\DTO\\UsuarioRequest.cs",
-              "ToolTip": "C:\\Users\\jhord\\source\\repos\\Domain\\DTO\\UsuarioRequest.cs",
-              "RelativeToolTip": "..\\Domain\\DTO\\UsuarioRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T00:55:04.997Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T23:59:20.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "20250521012453_Example.cs",
-              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Migrations\\20250521012453_Example.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250521012453_Example.cs",
-              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\Migrations\\20250521012453_Example.cs",
-              "RelativeToolTip": "Migrations\\20250521012453_Example.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwEkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T23:59:33.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\jhord\\source\\repos\\WebApi29\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\jhord\\source\\repos\\WebApi29\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-22T01:48:45.402Z",
+              "WhenOpened": "2025-06-02T05:02:53.183Z",
               "EditorCaption": ""
             }
           ]

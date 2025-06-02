@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Controllers",
-    "\\Services"
+    "\\Services",
+    "\\Services\\Services"
   ],
-  "SelectedNode": "\\Controllers\\UsuarioController.cs",
+  "SelectedNode": "\\Services\\Services\\UsuarioServices.cs",
   "PreviewInSolutionExplorer": false
 }
