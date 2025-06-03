@@ -20,7 +20,6 @@ namespace WebApi29.Controllers
 		}
 
 		// Obtener todos los roles
-		[Authorize]
 		[HttpGet]
 		public async Task<IActionResult> GetAll()
 		{
