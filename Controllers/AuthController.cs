@@ -8,9 +8,9 @@ namespace WebApi29.Controllers
 	[Route("[controller]")]
 	public class AuthController : Controller
 	{
-		private readonly IAuthService _authService;
+		private readonly IAuthServices _authService;
 
-		public AuthController(IAuthService authService)
+		public AuthController(IAuthServices authService)
 		{
 			_authService = authService;
 		}

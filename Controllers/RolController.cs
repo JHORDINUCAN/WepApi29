@@ -6,6 +6,7 @@ using WebApi29.Services.Services;
 
 namespace WebApi29.Controllers
 {
+	[Authorize]
 	[ApiController]
 	[Route("[controller]")]
 

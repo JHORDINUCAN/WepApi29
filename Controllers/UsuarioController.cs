@@ -6,6 +6,7 @@ using WebApi29.Services.IServices;
 
 namespace WebApi29.Controllers
 {
+	[Authorize]
 	[ApiController]
 	[Route("api/[controller]")]
 	public class UsuarioController : ControllerBase

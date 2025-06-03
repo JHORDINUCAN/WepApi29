@@ -7,12 +7,12 @@ using WebApi29.Services.IServices;
 
 namespace WebApi29.Services.Services
 {
-	public class AuthService : IAuthService
+	public class AuthServices : IAuthServices
 	{
 		private readonly ApplicationDbContext _context;
 		private readonly IConfiguration _config;
 
-		public AuthService(ApplicationDbContext context, IConfiguration config)
+		public AuthServices(ApplicationDbContext context, IConfiguration config)
 		{
 			_context = context;
 			_config = config;

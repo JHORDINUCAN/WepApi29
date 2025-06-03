@@ -63,7 +63,7 @@ builder.Services.AddAuthentication("Bearer")
 	});
 
 builder.Services.AddAuthorization();
-builder.Services.AddScoped<IAuthService, AuthService>();
+builder.Services.AddScoped<IAuthServices, AuthServices>();
 
 var app = builder.Build();
 

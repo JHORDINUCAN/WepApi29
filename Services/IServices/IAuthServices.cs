@@ -2,7 +2,7 @@
 
 namespace WebApi29.Services.IServices
 {
-	public interface IAuthService
+	public interface IAuthServices
 	{
 		Task<string> Login(LoginRequest request);
 	}
